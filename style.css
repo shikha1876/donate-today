@@ -6,21 +6,20 @@ body{
 .header-container{
     
    text-align: center;
-  color: white;
-  padding: 100px 0;
-  line-height: 20px;
-   
+   color: white;
+   padding: 100px 0;
+   line-height: 20px;
+      
 }
 .header-container2{
     
     text-align: center;
-   color:black;
+    color:black;
     
- }
+}
 h1{
    
-    font-size: 50px;
-    
+    font-size: 50px;    
 }
 
 .header-section{
@@ -33,7 +32,6 @@ h1{
   background-size: cover;
   position: relative;
   margin-top: 0%;
-
   
 }
 .donate-link{
@@ -74,8 +72,8 @@ h1{
    
    line-height: 20px;
     
- }
- .food-item{
+}
+.food-item{
     color: grey;
     width: 100%;
     padding: 20px;
@@ -84,8 +82,8 @@ h1{
     box-shadow: 10px  ;
     border-radius: 5px;
    
- }
- .shelter-item{
+}
+.shelter-item{
     color: grey;
     width: 100%;
     padding: 20px;
@@ -94,8 +92,8 @@ h1{
     background-color: rgba(188, 143, 143, 0.26);
     border-radius: 5px;
     
- }
- .education-item{
+}
+.education-item{
     color: grey;
     margin: 10px;
     padding: 20px;
@@ -104,21 +102,20 @@ h1{
     background-color: lightgoldenrodyellow;
     border-radius: 5px;
     
- }
- .flexible-section2{
+}
+.flexible-section2{
     display: flex;
     
     margin: 50px 100px;
- }
- .flexible-section2 h2{
+}
+.flexible-section2 h2{
     color: black;
- }
- .footer-part{
+}
+.footer-part{
     
     left: 0;
     bottom: 0;
-    width: 100%;
-    
+    width: 100%; 
     background-color:black;
     color: white;
     text-align: center;
@@ -127,9 +124,29 @@ h1{
     color: white;
     padding: 50px 0;
     line-height: 10px;
- }
- .footer-text{
+}
+.footer-text{
   color: rgba(255, 68, 0, 0.783);
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-weight: 900;
- }
+}
+.update-container{
+   text-align:center ;
+   color: black;
+   padding: 40px 0;
+   line-height: 20px;
+   width: 100%;
+    
+}
+.update-form{
+    color: grey;
+    margin: auto;
+    padding: 70px 0;
+    width: 50%;
+    box-shadow: 10px  ;
+    background-color: rgba(255, 182, 193, 0.291);
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
