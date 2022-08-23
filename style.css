@@ -1,24 +1,72 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
 }
 .header-container{
-    text-align: center;
+    
+   text-align: center;
+  color: white;
+  padding: 100px 0;
+  line-height: 20px;
+   
 }
+.header-container2{
+    
+    text-align: center;
+   color:black;
+    
+ }
 h1{
    
     font-size: 50px;
     
 }
 .header-heading{
-    margin-top: 100px;
+    
 }
 .header-section{
+  margin-bottom: 100px;
+  background-image: url(images/donation1.jpg);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 0%;
+
   
 }
 .donate-link{
     text-decoration: none;
-    padding: 10px 40px;
+    padding: 15px 40px;
     background-color: orangered;
     color: white;
     border-radius: 5px;
+}
+.flexible-section{
+    display: flex;
+    text-align: center;
+    margin: 50px 250px;
+
+}
+.donate-item{
+    color: grey;
+    font-weight: 800;
+    width: 20%;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px  ;
+    background-color: rgba(211, 211, 211, 0.232);
+    border-radius: 5px;
+    
+}
+#donate-item-red{
+    color: firebrick;
+   background-color: rgba(255, 99, 71, 0.16);
+   border: 2px solid firebrick;
+}
+.donate-today{
+    margin-bottom: 100px;
 }
