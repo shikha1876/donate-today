@@ -7,8 +7,18 @@ body{
 h1{
    
     font-size: 50px;
-    color: white;
+    
+}
+.header-heading{
+    margin-top: 100px;
 }
 .header-section{
-    background-image: url(images/donation1.jpg);
+  
+}
+.donate-link{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
 }
