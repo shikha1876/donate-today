@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-container{
+    text-align: center;
+}
+h1{
+   
+    font-size: 50px;
+    color: white;
+}
+.header-section{
+    background-image: url(images/donation1.jpg);
+}
