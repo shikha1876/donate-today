@@ -71,10 +71,47 @@ h1{
     margin-bottom: 100px;
 }
 .plan-container{
-    
-    text-align: center;
+   text-align: center; 
    color: black;
    
    line-height: 20px;
     
+ }
+ .food-item{
+    color: grey;
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgba(173, 216, 230, 0.463);
+    box-shadow: 10px  ;
+    border-radius: 5px;
+   
+ }
+ .shelter-item{
+    color: grey;
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 10px;
+    background-color: rgba(188, 143, 143, 0.26);
+    border-radius: 5px;
+    
+ }
+ .education-item{
+    color: grey;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    box-shadow: 10px  ;
+    background-color: lightgoldenrodyellow;
+    border-radius: 5px;
+    
+ }
+ .flexible-section2{
+    display: flex;
+    
+    margin: 50px 100px;
+ }
+ .flexible-section2 h2{
+    color: black;
  }
